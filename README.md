@@ -21,7 +21,7 @@
 <!-- STYLES -->
 
 
-
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
 <link rel="stylesheet" type="text/css" href="css/plugins.css" />
 <link rel="stylesheet" type="text/css" href="css/colors.css" />
 <link rel="stylesheet" type="text/css" href="css/darkMode.css" />
